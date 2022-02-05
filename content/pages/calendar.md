@@ -10,41 +10,479 @@ Spivak, David I. [_Category Theory for Scientists_]({{< baseurl >}}/pages/textbo
 
 Sessions 30–36 list the topics for the students' final project presentations.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} **1\. Introduction** {{< br >}}{{< br >}} **2\. The category of sets** {{< br >}}{{< br >}} 2.1. Sets and functions {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} 2.1. Sets and functions (cont.) {{< br >}}{{< br >}} 2.2. Commutative diagrams {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} 2.3. Ologs {{< br >}}{{< br >}} 2.4. Products and coproducts {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} 2.4. Products and coproducts (cont.) {{< br >}}{{< br >}} 2.5. Finite limits in set {{< br >}}{{< br >}}  |
-| 5 | 2.6. Finite limits in set (cont.) |
-| 6 |  {{< br >}}{{< br >}} 2.7. Other notions in set {{< br >}}{{< br >}} Mini-project: What are wiring diagrams? {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} 2.7. Other notions in set (cont.) {{< br >}}{{< br >}} **3\. Categories and functors, without admitting it** {{< br >}}{{< br >}} 3.1. Monoids {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} 3.1. Monoids (cont.) {{< br >}}{{< br >}} 3.2. Groups {{< br >}}{{< br >}}  |
-| 9 | 3.3. Graphs (cont.) |
-| 10 | 3.4. Orders |
-| 11 |  {{< br >}}{{< br >}} 3.4. Orders (cont.) {{< br >}}{{< br >}} 3.5. Databases: schemas and instances {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} **4\. Basic category theory** {{< br >}}{{< br >}} 4.1. Categories and functors {{< br >}}{{< br >}}  |
-| 13 | 4.1. Categories and functors (cont.) |
-| 14 | 4.1. Categories and functors (cont.) |
-| 15 |  {{< br >}}{{< br >}} 4.1. Categories and functors (cont.) {{< br >}}{{< br >}} 4.2. Categories and functors commonly arising in mathematics {{< br >}}{{< br >}}  |
-| 16 | 4.2. Categories and functors commonly arising in mathematics (cont.) |
-| 17 | 4.3. Natural transformations |
-| 18 | 4.3. Natural transformations (cont.) |
-| 19 |  {{< br >}}{{< br >}} 4.4. Categories and schemas are equivalent , Cat ≅ Sch {{< br >}}{{< br >}} 5.3. Monads {{< br >}}{{< br >}}  |
-| 20 | 4.5. Limits and colimits |
-| 21 | 4.5. Limits and colimits (cont.) |
-| 22 | _Discuss final project possibilities_ |
-| 23 | 4.6. Other notions in Cat |
-| 24 |  {{< br >}}{{< br >}} 4.6. Other notions in Cat (cont.) {{< br >}}{{< br >}} **5\. Categories at work** {{< br >}}{{< br >}} 5.1. Adjoint functors {{< br >}}{{< br >}}  |
-| 25 | 5.1. Adjoint functors (cont.) |
-| 26 | 5.1. Adjoint functors (cont.) |
-| 27 | 5.2. Categories of functors |
-| 28 |  {{< br >}}{{< br >}} 5.2. Categories of functors (cont.) {{< br >}}{{< br >}} 5.3. Monads {{< br >}}{{< br >}}  |
-| 29 | 5.3. Monads (cont.) |
-| 30 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Logical Systems and Monoidal Categories_ {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Meaning of Naturality in Algebra_ {{< br >}}{{< br >}}  |
-| 31 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_The Curry-Howard Isomorphism From a Categorical Standpoint_ {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_The Limits to the General Applicability of Category Theory in Biology: Where it Works and Where It Shouldn't_ {{< br >}}{{< br >}}  |
-| 32 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Notions of Computations and Monads_ {{< br >}}{{< br >}} 5.4. Operads {{< br >}}{{< br >}}  |
-| 33 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Categorizing Sloppiness_ {{< br >}}{{< br >}} 5.4. Operads (cont.) {{< br >}}{{< br >}}  |
-| 34 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_An Olog for Molecular Dynamics_ {{< br >}}{{< br >}} 5.4. Operads (cont.) {{< br >}}{{< br >}}  |
-| 35 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Ologs and Proving Causality in Social Science_ {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Illustration of Category Hilb with Examples in Atomic and Optical Physics_ {{< br >}}{{< br >}}  |
-| 36 |  {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_Cayley's Theorem, Yoneda's Lemma, and Yoneda's Embedding_ {{< br >}}{{< br >}} Student Presentation:  {{< br >}}_English to Olog Translation or: How I Learned to Stop Worrying and Love the Olog._ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**1\. Introduction**
+
+**2\. The category of sets**
+
+2.1. Sets and functions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2.1. Sets and functions (cont.)
+
+2.2. Commutative diagrams
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2.3. Ologs
+
+2.4. Products and coproducts
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2.4. Products and coproducts (cont.)
+
+2.5. Finite limits in set
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+2.6. Finite limits in set (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2.7. Other notions in set
+
+Mini-project: What are wiring diagrams?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2.7. Other notions in set (cont.)
+
+**3\. Categories and functors, without admitting it**
+
+3.1. Monoids
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3.1. Monoids (cont.)
+
+3.2. Groups
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+3.3. Graphs (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+3.4. Orders
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3.4. Orders (cont.)
+
+3.5. Databases: schemas and instances
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**4\. Basic category theory**
+
+4.1. Categories and functors
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+4.1. Categories and functors (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+4.1. Categories and functors (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+4.1. Categories and functors (cont.)
+
+4.2. Categories and functors commonly arising in mathematics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+4.2. Categories and functors commonly arising in mathematics (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+4.3. Natural transformations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+4.3. Natural transformations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+4.4. Categories and schemas are equivalent , Cat ≅ Sch
+
+5.3. Monads
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+4.5. Limits and colimits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+4.5. Limits and colimits (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Discuss final project possibilities_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+4.6. Other notions in Cat
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+4.6. Other notions in Cat (cont.)
+
+**5\. Categories at work**
+
+5.1. Adjoint functors
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+5.1. Adjoint functors (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+5.1. Adjoint functors (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+5.2. Categories of functors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+5.2. Categories of functors (cont.)
+
+5.3. Monads
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+5.3. Monads (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_Logical Systems and Monoidal Categories_
+
+Student Presentation:  
+_Meaning of Naturality in Algebra_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_The Curry-Howard Isomorphism From a Categorical Standpoint_
+
+Student Presentation:  
+_The Limits to the General Applicability of Category Theory in Biology: Where it Works and Where It Shouldn't_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_Notions of Computations and Monads_
+
+5.4. Operads
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_Categorizing Sloppiness_
+
+5.4. Operads (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_An Olog for Molecular Dynamics_
+
+5.4. Operads (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_Ologs and Proving Causality in Social Science_
+
+Student Presentation:  
+_Illustration of Category Hilb with Examples in Atomic and Optical Physics_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentation:  
+_Cayley's Theorem, Yoneda's Lemma, and Yoneda's Embedding_
+
+Student Presentation:  
+_English to Olog Translation or: How I Learned to Stop Worrying and Love the Olog._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

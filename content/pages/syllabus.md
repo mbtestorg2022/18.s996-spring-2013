@@ -45,8 +45,45 @@ Homework is also worth 33% of your grade. It will be collected weekly. Late home
 
 The rest of your grade is based on your final project. This can either be an oral presentation or a publishable document. See the [Projects]({{< baseurl >}}/pages/projects) section for more details.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 33% |
-| Weekly homework assignments | 33% |
-| Final project | 34%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+34%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

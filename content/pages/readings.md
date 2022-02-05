@@ -23,20 +23,204 @@ Homework Assignments
 
 Homework assignments are worth 33% of the final grade, are collected weekly, and are due during the session listed.
 
-| SES # | READINGS | HOMEWORK ASSIGNMENTS |
-| --- | --- | --- |
-| 3 | Chapter 1–Chapter 2.2 | All exercises in sections 2.1, 2.2 |
-| 5 | Chapter 2.3–2.5 | Sections 2.3, 2.4, 2.5: your choice of four exercises in each section |
-| 8 | Chapter 2.6–Chapter 3.1 | Sections 2.6, 2.7, 3.1: your choice of four exercises in each section |
-| 12 | Chapter 3.2–3.4 | Sections 3.2, 3.3, 3.4: your choice of four exercises in each section |
-| 15 | Chapter 3.5–Chapter 4.1 |  {{< br >}}{{< br >}} Section 3.5: your choice of four exercises {{< br >}}{{< br >}} Section 4.1: your choice of eight exercises {{< br >}}{{< br >}}  |
-| 18 | Chapter 4.2 |  {{< br >}}{{< br >}} Section 4.1, after 4.1.2.24: your choice of four exercises {{< br >}}{{< br >}} Section 4.2: your choice of eight exercises {{< br >}}{{< br >}}  |
-| 21 | Chapter 4.3–4.5.1 | Sections 4.3, 4.4, 4.5.1: your choice of four exercises in each section |
-| 25 |  {{< br >}}{{< br >}} Chapter 4.5 {{< br >}}{{< br >}} Literature review: Find past work on your proposed topic {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sections 4.5.2, 4.5.3: your choice of four exercises in each section {{< br >}}{{< br >}} Begin research on your final project {{< br >}}{{< br >}}  |
-| 27 | Chapter 4.6.1–Chapter 5.1.3 | Sections 4.6, 5.1 (up through 5.1.3): your choice of three exercises in each section |
-| 28 | Chapter 5.1.4–5.2 | Sections 5.1.4, 5.2: your choice of three exercises in each section |
-| 30 | Chapter 5.3 |  {{< br >}}{{< br >}} Section 5.3: your choice of three exercises {{< br >}}{{< br >}} Final project due {{< br >}}{{< br >}}  |
-| 35 | Chapter 5.4 |  {{< br >}}{{< br >}} Section 5.4: your choice of two exercises {{< br >}}{{< br >}} Summarize your experience in this class {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+HOMEWORK ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1–Chapter 2.2
+{{< tdclose >}}
+{{< tdopen >}}
+All exercises in sections 2.1, 2.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.3–2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.3, 2.4, 2.5: your choice of four exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.6–Chapter 3.1
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.6, 2.7, 3.1: your choice of four exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.2–3.4
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.2, 3.3, 3.4: your choice of four exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.5–Chapter 4.1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Section 3.5: your choice of four exercises
+
+Section 4.1: your choice of eight exercises
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Section 4.1, after 4.1.2.24: your choice of four exercises
+
+Section 4.2: your choice of eight exercises
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.3–4.5.1
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.3, 4.4, 4.5.1: your choice of four exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4.5
+
+Literature review: Find past work on your proposed topic
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sections 4.5.2, 4.5.3: your choice of four exercises in each section
+
+Begin research on your final project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.6.1–Chapter 5.1.3
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.6, 5.1 (up through 5.1.3): your choice of three exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.1.4–5.2
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 5.1.4, 5.2: your choice of three exercises in each section
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Section 5.3: your choice of three exercises
+
+Final project due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Section 5.4: your choice of two exercises
+
+Summarize your experience in this class
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Perhaps also of Interest
 ------------------------
