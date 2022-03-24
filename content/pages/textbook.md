@@ -6,11 +6,11 @@ uid: 333ad9bb-2d71-e34a-415e-d9460aa39115
 
 All readings and assignments are from the textbook, which is available online:
 
-Complete textbook as a single file (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3MB]({{< baseurl >}}/resources/mit18_s996s13_textbook))
+Complete textbook as a single file ([PDF - 4.3MB]({{< baseurl >}}/resources/mit18_s996s13_textbook))
 
 To leave comments or questions about the book, go to [CT4S suggestions](https://docs.google.com/document/d/1J2AGqTTBRenZyeUnFvCbXnFVjK5zzEFzMRS245M4wAc/edit?pli=1).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[1 Introduction (PDF)]({{< baseurl >}}/resources/mit18_s996s13_chapter1)  
+**[1 Introduction (PDF)]({{< baseurl >}}/resources/mit18_s996s13_chapter1)  
 **
 
 1.1 A brief history of category theory
@@ -23,7 +23,7 @@ To leave comments or questions about the book, go to [CT4S suggestions](https://
 
 1.5 Acknowledgments
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[2 The category of sets (PDF)]({{< baseurl >}}/resources/mit18_s996s13_chapter2)  
+**[2 The category of sets (PDF)]({{< baseurl >}}/resources/mit18_s996s13_chapter2)  
 **
 
 2.1 Sets and functions
@@ -40,7 +40,7 @@ To leave comments or questions about the book, go to [CT4S suggestions](https://
 
 2.7 Other notions in **Set**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[**3 Categories and functors, without admitting it (PDF)**]({{< baseurl >}}/resources/mit18_s996s13_chapter3)
+[**3 Categories and functors, without admitting it (PDF)**]({{< baseurl >}}/resources/mit18_s996s13_chapter3)
 
 3.1 Monoids
 
@@ -52,7 +52,7 @@ To leave comments or questions about the book, go to [CT4S suggestions](https://
 
 3.5 Databases: schemas and instances
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[4 Basic category theory (PDF - 1.5MB)]({{< baseurl >}}/resources/mit18_s996s13_chapter4)  
+**[4 Basic category theory (PDF - 1.5MB)]({{< baseurl >}}/resources/mit18_s996s13_chapter4)  
 **
 
 4.1 Categories and Functors
@@ -67,7 +67,7 @@ To leave comments or questions about the book, go to [CT4S suggestions](https://
 
 4.6 Other notions in **Cat**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[5 Categories at work (PDF - 2.6MB)]({{< baseurl >}}/resources/mit18_s996s13_chapter5)  
+**[5 Categories at work (PDF - 2.6MB)]({{< baseurl >}}/resources/mit18_s996s13_chapter5)  
 **
 
 5.1 Adjoint functors
