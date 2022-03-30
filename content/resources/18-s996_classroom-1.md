@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ecf2094e-695d-b57c-53c4-977655e1ee03
 resourcetype: Image
 title: 18-S996_classroom-1.png
 uid: c9eac512-658d-2b14-b12f-c839dddff249
